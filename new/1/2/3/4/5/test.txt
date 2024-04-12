@@ -1,0 +1,10 @@
+test in new 1 2 3 4 5
+состояние 1
+
+
+test_txt test_txt test_txt test_txt test_txt test_txt 
+test_txt test_txt test_txt test_txt test_txt 
+test_txt test_txt test_txt test_txt 
+test_txt test_txt test_txt 
+test_txt test_txt 
+test_txt 
